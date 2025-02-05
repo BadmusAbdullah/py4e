@@ -12,7 +12,7 @@ for line in hand:
     print(sum(int_list))
 
 # for line in hand:
-#     line = line.rstrip()
+#     line = line.rstrip()dd
 #     email = re.findall("\S+@\S+", line)
 #     print(email)
 # if line.find("From:") >= 0:
